@@ -32,4 +32,6 @@ A convolutional neural network is also known as a ConvNet, which is a kind of ar
 # What is VGG16 used for
 VGG16 is object detection and classification algorithm which is able to classify 1000 images of 1000 different categories with 92.7% accuracy. It is one of the popular algorithms for image classification and is easy to use with transfer learning.
 
+# VGG16 Architecture
+![](https://miro.medium.com/max/875/0*0M8CobXpNwFDCmOQ)
 ![](https://miro.medium.com/max/875/0*6VP81rFoLWp10FcG)
