@@ -14,3 +14,7 @@ The data has different types of diseases for tomato leaves. Here goes the list:
 # Accuracy
 * Best Validation Accuracy: 98.5%
 * Best Validation Accuracy: 96.7%
+
+# There are Two Architecture in this Project
+- VGG16
+- ResNet152V2
