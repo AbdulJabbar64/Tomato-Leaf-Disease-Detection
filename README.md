@@ -43,3 +43,4 @@ Because of the framework that **ResNets** presented it was made possible to trai
 
 **ResNet-50** is a convolutional neural network that is 50 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals
 
+![](https://iq.opengenus.org/content/images/2020/03/Screenshot-from-2020-03-20-15-56-22.png)
