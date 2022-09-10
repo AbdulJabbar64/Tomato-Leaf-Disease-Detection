@@ -48,5 +48,5 @@ There was a small change that was made for the **ResNet 50** and above that befo
 ![](https://iq.opengenus.org/content/images/2020/03/Screenshot-from-2020-03-20-15-56-22.png)
 
 # Uses
-This architecture can be used on computer vision tasks such as image classififcation, object localisation, object detection.
-and this framework can also be applied to non computer vision tasks to give them the benifit of depth and to reduce the computational expense also.
+- This architecture can be used on computer vision tasks such as image classififcation, object localisation, object detection.
+- this framework can also be applied to non computer vision tasks to give them the benifit of depth and to reduce the computational expense also.
